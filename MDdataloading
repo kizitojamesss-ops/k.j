@@ -1,3 +1,4 @@
+KIZITO MARK JAMES 25/U/30991/PS
 Dataloading.
 This is the process of transfering data from the CPU ram to the GPU.
 Basically getting data from storage turning it to data tenors and sendig it to the GPU in mini batches.
